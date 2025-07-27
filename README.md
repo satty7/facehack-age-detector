@@ -1,6 +1,6 @@
 # 👾 FaceHack Age & Gender Detector
 
-This project uses OpenCV, DNN, and Caffe models to detect faces, predict gender and age — with a retro hacker-styled GUI using Tkinter.
+This project uses OpenCV, DNN, and Caffe models to detect faces, predict gender and age — with a pastel-styled GUI using Tkinter.
 
 ## 🔧 Tech Stack
 - Python 3.11
@@ -8,10 +8,5 @@ This project uses OpenCV, DNN, and Caffe models to detect faces, predict gender 
 - Tkinter
 - DNN + Caffe pre-trained models
 
-## 🎮 Hacker Mode Preview
 
-![](screenshot.png)
-
----
-
-👩‍💻 Built with caffeine and chaos by Sassy Genius 💚
+👩‍💻 Built with caffeine and chaos by Sathvika 💚
